@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "patient-lab-layout",
+    "slug": "patient-lab-layout",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
